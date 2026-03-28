@@ -1,4 +1,4 @@
-# mol-game
+# Mole-game
 
 # Mole Whack Game（もぐらたたきゲーム）
 
